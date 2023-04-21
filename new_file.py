@@ -12,3 +12,5 @@ while game:
 
     print(*nums)
     game = False
+
+print("I am adding new fuc in this code")
